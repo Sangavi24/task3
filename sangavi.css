@@ -1,0 +1,49 @@
+﻿body
+{
+background-image:  linear-gradient(to bottom right,#000000,#ffff47);
+font-weight:bold;
+}
+caption
+{
+font-family:fantasy;
+font-size:50px;
+color:blue;
+background-color:#b4ff98;
+}
+
+table,tr,td
+{
+   border: 3px solid black;
+   border-collapse: collapse;
+   background-color:#b4ff98;
+   text-align: right;
+}
+th,td {
+  padding: 10px;
+  text-align: left;
+}
+th
+{
+  color:#ffffff;
+  background-color:#ee82ee;
+}
+ .Total
+{
+font-weight: bold;
+margin-left:761px;
+}
+.Score
+{
+font-weight: bold;
+margin-left:840px;
+margin-top: -18px;
+}
+ /* .tab
+{
+border-style:ridge;
+border-width:50px;
+border-color:#ffffff;
+border-radius:12px
+} */
+
+
